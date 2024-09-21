@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I am Rafsan The General The Script Builder . <br><br>- 🔭 I’m working currently Python<br>- 📚 I'm currently learning Dart & Flutter <br>- ⚡ In my free time I No more just Debug My Code</p>
+<p align="left">I am Rafsan The General The Script Builder . <br><br>- 🔭 I’m working currently Python<br>- 📚 I'm currently learning Dart & Flutter <br>- ⚡ In my free time I No more just Debug My Code <br><br> & Try to Solve Coding Problem </p>
 
 ###
 
